@@ -2,12 +2,27 @@
 
 Super Mario Maker Creative World fue un fangame inspirado en el popular juego de Nintendo, Super Mario Maker de Wii U. El juego presenta niveles personalizados creados por la comunidad y ofrece una experiencia de juego única para los fanáticos de la serie.
 
+## Requisitos
+
+GameMaker Studio 2.2.4
+Android Studio
+Visual Studio
+
 ## Créditos
 
 - Zebas22
 - ViniMaker
 - Franyer
-- SMM:WE
+- Andoyt
+
+## Agradecimientos
+
+- Sicraft
+- Less
+- Gatuping
+- chavks
+- ViniMaker
+
 
 ## Licencia 
 
