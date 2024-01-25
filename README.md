@@ -18,7 +18,7 @@ Super Mario Maker Creative World fue un fangame inspirado en el popular juego de
 ## Agradecimientos
 
 - Sicraft
-- Less
+- Les
 - Gatuping
 - chavks
 - ViniMaker
