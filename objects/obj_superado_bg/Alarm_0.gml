@@ -1,0 +1,10 @@
+superado_texto = 0
+timer1 = global.nrecord
+seconds1 = floor((timer1 / 1000))
+minutes1 = floor((seconds1 / 60))
+milliseconds1 = (timer1 - (seconds1 * 1000))
+seconds1 %= 60
+time1 = ((((string_add_zeros(minutes1, 2) + ":") + string_add_zeros(seconds1, 2)) + ":") + string_add_zeros(milliseconds1, 3))
+sprite_index = spr_superado_bg2
+image_index = 0
+image_speed = 0.5

@@ -1,0 +1,13 @@
+image_speed = 0
+image_index = 0
+loading = 0
+rot = 0
+url = ""
+old = 1
+ready = 0
+anim = 0
+anim2 = 0
+text = "Nueva Partida"
+c_button = c_white
+posy = 3
+effect_hover = 0

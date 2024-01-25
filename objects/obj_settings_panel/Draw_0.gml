@@ -1,0 +1,6 @@
+draw_sprite_ext(sprite_index, 0, camera_get_view_x(view_get_camera(0)) + 106, camera_get_view_y(view_get_camera(0)) + 20, 0.3334, 0.3334, 0, c_white, 1)
+draw_set_font(global.font_hd)
+draw_set_color(c_white)
+draw_text_transformed((camera_get_view_x(view_get_camera(0)) + 138), (camera_get_view_y(view_get_camera(0)) + 75), string_hash_to_newline(ventana),0.3334,0.3334,0)
+draw_text_transformed((camera_get_view_x(view_get_camera(0)) + 138), (camera_get_view_y(view_get_camera(0)) + 34), string_hash_to_newline("Character"),0.3334,0.3334,0)
+draw_text_transformed((camera_get_view_x(view_get_camera(0)) + 138), (camera_get_view_y(view_get_camera(0)) + 116), string_hash_to_newline("Sounds"),0.3334,0.3334,0)

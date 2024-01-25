@@ -1,0 +1,13 @@
+image_speed = 0
+image_xscale = 0.3334
+image_yscale = 0.3334
+text = "Facil"
+loading = 0
+rot = 0
+url = ""
+value = 0
+effect_hover = 0
+icon = 0
+anim = 0
+c_button = make_colour_rgb(102, 18, 18)
+c_colors = c_white

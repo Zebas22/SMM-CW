@@ -1,0 +1,33 @@
+{
+    "id": "17270c20-13c9-4d58-92e6-cb4b482bf736",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "17270c20-13c9-4d58-92e6-cb4b482bf736",
+    "children": [
+        "5a698826-28e3-4cf5-9583-90266c5c73c7",
+        "59fbfb28-f480-44d0-b500-fe4b00db7aa1",
+        "9c92c922-19fa-47eb-b0ff-ce6adbd2f7bc",
+        "a1fb6b81-5d6b-4225-8218-f15901dbbe3c",
+        "6c0a2eb2-ef57-47fb-9f1a-b292df3d5f31",
+        "ef5855fe-fc51-4869-bf2a-a6da6eba7b5a",
+        "e4009f00-9114-4fcd-b5c7-3d21267b3364",
+        "14693435-83e8-40d8-b581-6c35f5cee367",
+        "96d361ee-803a-4070-af58-084811e5b4c4",
+        "0b058d14-1a11-4b6c-b001-e62e65eb47b9",
+        "ffca1b42-1945-41cf-955e-2dde67db5848",
+        "af25db7c-0946-4ee0-ae97-a34fd7099156",
+        "ea21fcbd-7008-4062-bf47-a7fcdbcf593c",
+        "7d775096-65e1-4dd1-9e4a-586ba974cee8",
+        "5e6ef925-7ab6-4bb4-bd06-2f43c88ecba6",
+        "b7e54111-17d1-4f25-80d6-e8a6ac08ccf8",
+        "9465b4d8-1d5f-4564-b98c-77bbcbfd9f68",
+        "4f94a921-7150-4cfa-b8a9-f4e5e48c0fd0",
+        "8e165b1e-8f60-40ad-bc75-d609b738a5b1",
+        "fd2a25c5-980b-4d4a-a044-8ff8895bfcd0",
+        "9e2b2375-be2c-4f46-a525-3956a077f155"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Editor Res Sounds Effects",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

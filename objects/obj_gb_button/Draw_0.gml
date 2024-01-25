@@ -1,0 +1,5 @@
+draw_self()
+draw_set_font(global.font_google)
+draw_set_color(c_title)
+var nn_text = scr_add3points(texto, 60, 11)
+draw_text((x + 6), (y + 27), string_hash_to_newline((nn_text)))

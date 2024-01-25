@@ -1,0 +1,14 @@
+image_speed = 0
+image_index = 0
+image_xscale = 0.3334
+image_yscale = 0.3334
+disable = ""
+disabled = 0
+loading = 0
+rot = 0
+sprite_heart = spr_follown_heart
+index_heart = 0
+url = ""
+time = 0
+press = 0
+alarm[0] = 5

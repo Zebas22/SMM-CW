@@ -1,0 +1,9 @@
+image_speed = 0
+image_index = 0
+selected = 0
+disabled = 0
+index = 0
+text1 = 0
+text2 = 0
+text3 = 0
+text4 = 0

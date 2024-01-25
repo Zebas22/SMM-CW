@@ -1,0 +1,1 @@
+y = (start_y - (((instance_number(obj_nm_card_makers) - 2) * 39) * global.scroll_perc))

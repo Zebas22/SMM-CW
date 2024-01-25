@@ -1,0 +1,1 @@
+global.cooldown = 0;

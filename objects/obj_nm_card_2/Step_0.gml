@@ -1,0 +1,1 @@
+y = (start_y - (((instance_number(obj_nm_card_2) - 2) * 54) * global.scroll_perc))

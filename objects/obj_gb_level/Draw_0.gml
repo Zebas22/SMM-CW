@@ -1,0 +1,12 @@
+var nn_text;
+draw_self()
+draw_set_font(global.font_google)
+draw_set_color(c_white)
+nn_text = scr_add3points(global.levelguardabot, 270, 52)
+draw_text((camera_get_view_x(view_get_camera(0)) + 78), (camera_get_view_y(view_get_camera(0)) + 57), string_hash_to_newline(nn_text))
+draw_text((camera_get_view_x(view_get_camera(0)) + 84), (camera_get_view_y(view_get_camera(0)) + 173), string_hash_to_newline(user))
+draw_sprite(spr_user_icon, 0, (camera_get_view_x(view_get_camera(0)) + 70), (camera_get_view_y(view_get_camera(0)) + 176))
+draw_sprite(image_apa, entorno_image, (camera_get_view_x(view_get_camera(0)) + 69), (camera_get_view_y(view_get_camera(0)) + 79))
+draw_set_color(c_white)
+draw_text((camera_get_view_x(view_get_camera(0)) + 74), (camera_get_view_y(view_get_camera(0)) + 147), string_hash_to_newline(fecha))
+draw_text((camera_get_view_x(view_get_camera(0)) + 165), (camera_get_view_y(view_get_camera(0)) + 147), string_hash_to_newline(hora))

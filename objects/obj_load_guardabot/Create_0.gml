@@ -1,0 +1,17 @@
+no_pausar = 0
+pos_y = 0
+pos_y_limit = 0
+water_speed = 0
+limit_door_1 = 0
+limit_door_2 = 0
+limit_door_3 = 0
+url = ""
+entorno[0] = "ground"
+entorno[1] = "underground"
+entorno[2] = "castle"
+entorno[3] = "underwater"
+entorno[4] = "ghost"
+entorno[5] = "airship"
+entorno[6] = "airship"
+entorno[7] = "desert"
+entorno[8] = "snow"

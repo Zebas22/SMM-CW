@@ -1,0 +1,8 @@
+draw_sprite_ext(sprite_index, 0, camera_get_view_x(view_get_camera(0)), camera_get_view_y(view_get_camera(0)), image_xscale, image_yscale, 0, c_white, 1)
+draw_set_font(global.font_hd)
+draw_set_color(c_white)
+draw_set_halign(fa_center)
+draw_text_transformed((x + 192), (y + 30), "Uploaded Courses",image_xscale,image_yscale,0)
+draw_set_halign(fa_left)
+draw_set_color(c_name)
+draw_text_transformed((x + 25), (y + 10), string_hash_to_newline(obj_panel_makers.alias),image_xscale,image_yscale,0)
