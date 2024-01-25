@@ -4,8 +4,8 @@ Super Mario Maker Creative World fue un fangame inspirado en el popular juego de
 
 ## Requisitos
 
-GameMaker Studio 2.2.4
-Android Studio
+GameMaker Studio 2.2.4, 
+Android Studio, 
 Visual Studio
 
 ## Créditos
